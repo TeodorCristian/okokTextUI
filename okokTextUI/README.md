@@ -1,8 +1,3 @@
-Hi, thank you for buying my script, I'm very grateful!
-
-If you need help contact me on discord: okok#3488
-Discord server: https://discord.gg/FauTgGRUku
-
 # To display a text UI
 
 exports['okokTextUI']:Open('[Key] Message', 'color', 'position')
